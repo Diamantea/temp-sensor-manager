@@ -225,6 +225,7 @@
 							</targetClasses>
 							<targetTests>
 								<param>it.apt.tempsensormanager.unit.*</param>
+								<param>it.apt.tempsensormanager.integration.*</param>
 							</targetTests>
 							<mutators>
 								<mutator>DEFAULTS</mutator>
